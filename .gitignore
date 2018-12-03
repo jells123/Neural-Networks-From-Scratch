@@ -1,0 +1,5 @@
+*.h5
+*.ckpt.*
+*.tfevents.*
+./*/.ipynb_checkpoints/*
+
